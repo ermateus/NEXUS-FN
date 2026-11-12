@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS Enterprise",
+  "description": "Sistema Integrado de Gestão Escolar Multi-Tenant para Moçambique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
